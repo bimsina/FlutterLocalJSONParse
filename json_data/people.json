@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Tony Stark",
+        "universe": "Marvel",
+        "alias": "Iron Man",
+        "occupation": "CEO"
+    },
+    {
+        "name": "Bruce Wayne",
+        "universe": "DC",
+        "alias": "Bat Man",
+        "occupation": "CEO"
+    },
+    {
+        "name": "Peter Parker",
+        "universe": "Marvel",
+        "alias": "Spider Man",
+        "occupation": "Student"
+    },
+    {
+        "name": "Clark Kent",
+        "universe": "DC",
+        "alias": "Super Man",
+        "occupation": "Journalist"
+    },
+    {
+        "name": "Stephen Strange",
+        "universe": "Marvel",
+        "alias": "Dr. Strange",
+        "occupation": "Doctor"
+    }
+]
